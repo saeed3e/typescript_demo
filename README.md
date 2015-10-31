@@ -1,10 +1,16 @@
-# typescript_hello
+# typeScript_hello
 
-To run this program first run command
+To run this program
+
+1) first run command
     
     npm install -g typescript
   
-to compile typescript file(.ts) run command
+2) Compile typescript file(.ts) run command
   
     tsc hello.ts
+
+3) Open File in browser
+    
+    index.html
   
